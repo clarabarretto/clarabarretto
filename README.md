@@ -13,12 +13,7 @@
   <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
-  
-  ##
  
 <div> 
- <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://br.linkedin.com/in/maria-clara-barretto-60472b244?trk=people-guest_people_search-card)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaellaballerini/rafaellaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
