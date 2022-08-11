@@ -1,6 +1,5 @@
 ### Hello👋🏻
 
-### 📫 How to reach me: @clarabarretto_
 ### 📚 I’m currently learning:
 ###   -Javascript
 ###   -NODE
