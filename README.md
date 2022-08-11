@@ -1,6 +1,6 @@
-### Hello👋🏻
+### Hello :)
 
-### 📚 I’m currently learning:
+### Currently learning:
 ###   -Javascript
 ###   -NODE
 ###   -Html
