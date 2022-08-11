@@ -1,13 +1,5 @@
 ### Hello :)
 
-### Currently learning:
-###   -Javascript
-###   -NODE
-###   -Html
-###   -CSS
-###   -Python
-
-
 
 <!--
 **clarabarretto/clarabarretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
