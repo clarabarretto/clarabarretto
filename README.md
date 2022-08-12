@@ -4,4 +4,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabarretto&layout=compact&langs_count=7&theme=highcontrast"/>    
 </div>
   
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
