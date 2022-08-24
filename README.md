@@ -6,6 +6,6 @@
   
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/clarabarretto/clarabarretto/blob/output/github-contribution-grid-snake.svg)
 
   
