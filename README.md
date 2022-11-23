@@ -1,4 +1,6 @@
 <h2> Hi, I'm Clara<h2>
+  ![MuaKissGIF (2)](https://user-images.githubusercontent.com/111030247/203647523-e0f5ca2d-2c22-4d6f-9650-3d170b12fb52.gif)
+
 <div align="center">
   <a href="https://github.com/clarabarretto">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=clarabarretto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
