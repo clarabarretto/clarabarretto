@@ -1,7 +1,8 @@
 
 <h2> Hi, I'm Clara<h2>
 
-![FrozenFrozen2GIF (2)](https://user-images.githubusercontent.com/111030247/203649197-e9bd4435-d0e9-4d04-85ef-e51810a628a6.gif)
+  ![CatTypingGIF](https://user-images.githubusercontent.com/111030247/203649472-2efa7958-5c6e-411d-a1b1-3d535dff426d.gif)
+
 
 <div align="center">
   <a href="https://github.com/clarabarretto">
