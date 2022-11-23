@@ -2,7 +2,6 @@
 <h2> Hi, I'm Clara<h2>
   <div align"center" height="100em">
     ![FrozenFrozen2GIF](https://user-images.githubusercontent.com/111030247/203649100-3a374ad6-0fc6-4a2c-9b06-fb938f948edb.gif)
-
   </div>
 
 <div align="center">
