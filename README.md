@@ -1,5 +1,7 @@
+
 <h2> Hi, I'm Clara<h2>
-  ![MuaKissGIF (2)](https://user-images.githubusercontent.com/111030247/203647523-e0f5ca2d-2c22-4d6f-9650-3d170b12fb52.gif)
+
+![HelloTherePrivateFromPenguinsOfMadagascarGIF (2)](https://user-images.githubusercontent.com/111030247/203647919-0a15f3ab-154b-4545-8bf2-bfdd2869c6cc.gif)
 
 <div align="center">
   <a href="https://github.com/clarabarretto">
