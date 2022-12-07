@@ -1,5 +1,8 @@
 ### Hi i'm Clara
 
+![CristianoRonaldoRonaldoPortugalGIF](https://user-images.githubusercontent.com/111030247/206198250-1ec0b8ec-60f9-4522-b180-01608c622cf5.gif)
+
+
 ##
 <div align="center">
   <a href="https://github.com/clarabarretto">
