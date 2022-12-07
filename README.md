@@ -1,7 +1,6 @@
 ### Hi i'm Clara
 
-![CristianoRonaldoRonaldoPortugalGIF](https://user-images.githubusercontent.com/111030247/206198250-1ec0b8ec-60f9-4522-b180-01608c622cf5.gif)
-
+![ViniNeymarPaquetaDanceGIF](https://user-images.githubusercontent.com/111030247/206198457-1afafcce-54e3-47ee-9ba5-f57d94b9cb6a.gif)
 
 ##
 <div align="center">
