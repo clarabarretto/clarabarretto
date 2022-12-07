@@ -1,12 +1,9 @@
 ### Hi i'm Clara
-
-![ViniNeymarPaquetaDanceGIF](https://user-images.githubusercontent.com/111030247/206198457-1afafcce-54e3-47ee-9ba5-f57d94b9cb6a.gif)
-
 ##
 <div align="center">
   <a href="https://github.com/clarabarretto">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarabarretto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabarretto&layout=compact&langs_count=7&theme=tokyonight"/>    
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=clarabarretto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabarretto&layout=compact&langs_count=7&theme=tokyonight"/>    
 </div>
 
 
