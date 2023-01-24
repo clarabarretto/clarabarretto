@@ -1,4 +1,4 @@
-### Hi i'm Clara
+
 ##
 <div align="center">
   <a href="https://github.com/clarabarretto">
